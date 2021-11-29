@@ -74,7 +74,6 @@ ANTS(2).favorite_color = [ 1 1 1 ];
 % now you can get information about all fields from one specific element of
 % the structure:
 ANTS(1)
-
 % or information about one field within one member:
 ANTS(1).number_of_watches
 
