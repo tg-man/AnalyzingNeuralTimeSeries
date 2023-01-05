@@ -18,7 +18,7 @@ remove_me_please = 20;
 clear remove_me_please
 whos
 
-remove_me_please % gives an error because the variable doesn't exist anymore!
+remove_me_please; % gives an error because the variable doesn't exist anymore!
 
 %% basic importing text data
 
